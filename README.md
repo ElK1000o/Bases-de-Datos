@@ -15,6 +15,6 @@ En las diversas carpetas encontrarás archivos .py que son parte del plan de est
 ### Contenido del Repositorio
 
 El repositorio está organizado en las siguientes carpetas:
-- **Unidad-III-pymysql**: Carpeta de la tercera unidad.
-  - **Clases**: Correspondiente a contenido y ejercicios integrando Python y SQL, utilizando pymysql.
-  - **Pruebas**: Correspondiente a evaluaciones del curso.
+- **Unidad-III-pymysql/**: Carpeta de la tercera unidad.
+  - **Clases/**: Correspondiente a contenido y ejercicios integrando Python y SQL, utilizando pymysql.
+  - **Pruebas/**: Correspondiente a evaluaciones del curso.

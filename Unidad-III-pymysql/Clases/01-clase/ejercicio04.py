@@ -17,7 +17,7 @@ class DAO: # Data Access Object
     def InsertarTallas(self):
         try:
             id = int(input("\nDigite Id    : "))
-            nom = input("Digite Talla : ");
+            nom = input("Digite Talla : ")
             val = (id,nom)
             sql = "insert into tallas (id_tal, nom_tal) values (%s, %s)"        
             self.cursor.execute(sql, val)

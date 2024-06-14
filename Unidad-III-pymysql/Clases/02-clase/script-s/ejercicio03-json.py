@@ -32,7 +32,7 @@ cliente = {
 }
 
 print(cliente, '\n')
-print('Acá serialziado: ')
+print('Acá serializado: ')
 
 json_salida = json.dumps(cliente)
 print(json_salida)
